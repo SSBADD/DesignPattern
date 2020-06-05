@@ -1,7 +1,7 @@
-# DesignPattern
+# DesignPatterns
 
 + 组长
-  + xx
+  + 
 + 组员
   + a
   + b
